@@ -12,7 +12,7 @@ We are making an app that recommends drinks based on the local weather condition
 Search your city by name in the side bar. Your local weather will be run through our proprietary hyper-detailed algorithm to give you the perfect cocktail for those weather conditions!
 
 ## SCREENSHOT:
-<img src='.\assets\Images\dd-scrnsht.png' alt='A screenshot of the website'/>
+<img src='.\assets\images\dd-scrnsht.png' alt='A screenshot of the website'/>
 
 ## VISIT:
 Click <a href="https://lawhornmatt.github.io/DailyDelight/" target="_blank">here</a> to find out what to make tonight!
